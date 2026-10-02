@@ -1,0 +1,1 @@
+Multiplication between two integers scales the two integer values into a single value or the "product". 4 × 7 = 28, 4 and 7 are two integer values. The × sign triggers the multiplication process between the two values. 28 is the multiplied value or product. 3 × 9 = 27, 3 and nine are the two integer values. 27 is the product.
